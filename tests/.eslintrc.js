@@ -1,3 +1,6 @@
 module.exports = {
-  extends: '../node_modules/ember-cli-eslint/coding-standard/ember-testing.js'
+  extends: '../node_modules/ember-cli-eslint/coding-standard/ember-testing.js',
+  globals: {
+    percySnapshot: true
+  }
 };
