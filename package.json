@@ -24,7 +24,7 @@
   "devDependencies": {
     "babel-eslint": "^6.0.0",
     "broccoli-asset-rev": "^2.4.2",
-    "coveralls": "^2.0.0",
+    "coveralls": "^2.11.11",
     "cross-env": "^1.0.0",
     "ember-ajax": "^2.0.1",
     "ember-awesome-macros": "0.0.7",
